@@ -1,1 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T08:21:20.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="14.8.5" etag="YgzP97XFmveJH1lhaDXM" type="github"><diagram id="PoLz3JW76dCRR-KaLKlP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-12T08:22:22.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ZZy5XxF_T1RIS5q7pu59" version="14.8.5" type="github">
+  <diagram id="PoLz3JW76dCRR-KaLKlP" name="ページ1">
+    <mxGraphModel dx="667" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wvC_CjCEPJTFJe6k_Hgl-1" value="Email address" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry width="260" height="40" relative="1" as="geometry">
+            <mxPoint x="40" y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wvC_CjCEPJTFJe6k_Hgl-2" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry width="800" height="30" relative="1" as="geometry">
+            <mxPoint x="40" y="100" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wvC_CjCEPJTFJe6k_Hgl-3" value="We&#39;ll never share your email with anyone else." style="fillColor=none;strokeColor=none;align=left;spacing=2;fontSize=12;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry width="260" height="30" relative="1" as="geometry">
+            <mxPoint x="40" y="130" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wvC_CjCEPJTFJe6k_Hgl-4" value="Password" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry width="260" height="40" relative="1" as="geometry">
+            <mxPoint x="40" y="160" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wvC_CjCEPJTFJe6k_Hgl-5" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry width="800" height="30" relative="1" as="geometry">
+            <mxPoint x="40" y="200" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wvC_CjCEPJTFJe6k_Hgl-6" value="Check me out" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=2;fillColor=#EDEDED;strokeColor=#999999;align=left;fontSize=14;fontColor=#000000;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;spacingTop=-2;gradientColor=#DEDEDE;" vertex="1" parent="1">
+          <mxGeometry width="10" height="10" relative="1" as="geometry">
+            <mxPoint x="40" y="250" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wvC_CjCEPJTFJe6k_Hgl-7" value="Sign in" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="40" y="280" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
