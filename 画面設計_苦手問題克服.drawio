@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T07:09:23.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="JRbJW4mBiRuICqafPqtV" version="14.8.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-13T07:14:18.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="y1_P5UEbJlIkTDH02cvK" version="14.8.5" type="github" pages="4">
   <diagram id="j8p6b92bLePDRZEin-ZR" name="ページ1">
     <mxGraphModel dx="796" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -312,7 +312,7 @@
           <mxGeometry x="620" y="634" width="470" height="55" as="geometry" />
         </mxCell>
         <mxCell id="AmgucVSwudBUp7dKWFNj-14" value="#なんでだろう　#鬼　　　　#絶対　　&lt;br&gt;#図形　　　　　#計算　　　#文法&lt;br&gt;#リベンジ　　　#歴史　　　#地理&lt;br&gt;#幕末　　　　　#英文法　　#漢字&lt;br&gt;#因数分解　　　#証明　　　#暗記　" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;shadow=0;dashed=0;labelBackgroundColor=none;fontSize=25;fontColor=#0085FC;labelPosition=center;verticalLabelPosition=top;" vertex="1" parent="tNhTWccTUNIHi33zQ-mo-1">
-          <mxGeometry x="630" y="520" width="440" height="20" as="geometry" />
+          <mxGeometry x="630" y="517" width="440" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AmgucVSwudBUp7dKWFNj-19" value="教科別でもタグ検索出来るよ！検索も活用してね！" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;labelBackgroundColor=none;" vertex="1" parent="tNhTWccTUNIHi33zQ-mo-1">
           <mxGeometry x="620" y="520" width="470" height="30" as="geometry" />
@@ -344,6 +344,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vYcsxq92xAA_CK0XLzcP" name="ページ4">
+    <mxGraphModel dx="796" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="49bDb4sRwv-_-wJw5f8u-0" />
+        <mxCell id="49bDb4sRwv-_-wJw5f8u-1" parent="49bDb4sRwv-_-wJw5f8u-0" />
       </root>
     </mxGraphModel>
   </diagram>
