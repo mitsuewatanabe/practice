@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T02:42:02.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="lIOb9_4ZK52AYEEqrcJ4" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-13T02:51:41.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="o1J9yr84neW85fTSp7tE" version="14.8.5" type="github" pages="2">
   <diagram id="j8p6b92bLePDRZEin-ZR" name="ページ1">
-    <mxGraphModel dx="850" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1336" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,15 +48,23 @@
         <mxCell id="DRXtgYTk0A-DrvqbZUSx-38" value="&lt;span style=&quot;font-size: 16px&quot;&gt;ログインIDもしくはパスワードが違います！&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#FFECBC;strokeWidth=1;fillColor=#FFF1CF;fontColor=#856110;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=13;" vertex="1" parent="DRXtgYTk0A-DrvqbZUSx-12">
           <mxGeometry x="150" y="69.30434782608697" width="700" height="40.86956521739131" as="geometry" />
         </mxCell>
-        <mxCell id="DRXtgYTk0A-DrvqbZUSx-40" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;ログインIDもしくは&lt;br&gt;パスワードが違う時だけ&lt;div&gt;&lt;span&gt;表示する。&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;fontSize=22;fillColor=#ffff88;strokeColor=#36393d;align=left;" vertex="1" parent="DRXtgYTk0A-DrvqbZUSx-12">
+        <mxCell id="DRXtgYTk0A-DrvqbZUSx-40" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;ログインIDもしくは&lt;br&gt;パスワードが違う時だけ&lt;div&gt;&lt;span&gt;表示する。&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;fontSize=22;strokeColor=#36393d;align=left;fillColor=#FFFF88;" vertex="1" parent="DRXtgYTk0A-DrvqbZUSx-12">
           <mxGeometry x="670" y="-100" width="320" height="169.3" as="geometry" />
         </mxCell>
         <mxCell id="DRXtgYTk0A-DrvqbZUSx-18" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 45px&quot;&gt;■ ログイン画面&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="80" y="90" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DRXtgYTk0A-DrvqbZUSx-42" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=22;fontColor=#ffffff;fillColor=#e51400;strokeColor=#B20000;" vertex="1" parent="1">
-          <mxGeometry x="250" y="610" width="70" height="100" as="geometry" />
+        <mxCell id="DRXtgYTk0A-DrvqbZUSx-50" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;font color=&quot;#36393d&quot;&gt;ログインが出来たら&lt;/font&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;font color=&quot;#36393d&quot;&gt;〇－〇のトップページへ行く&lt;/font&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;fontSize=22;direction=south;strokeColor=#36393d;align=left;fillColor=#FFFF88;" vertex="1" parent="1">
+          <mxGeometry x="350" y="570" width="530" height="160" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5g8d9vBgnRIc4ZsRijdH" name="ページ2">
+    <mxGraphModel dx="935" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="LzhJ9Gyvr20koei1Hah8-0" />
+        <mxCell id="LzhJ9Gyvr20koei1Hah8-1" parent="LzhJ9Gyvr20koei1Hah8-0" />
       </root>
     </mxGraphModel>
   </diagram>
