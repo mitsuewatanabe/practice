@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T09:35:28.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="qkhvJoYADQ0FaYJIJSDQ" version="14.8.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-07-14T09:40:38.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="gzWV07w4rc6Aw5HVo3wQ" version="14.8.6" type="github" pages="6">
   <diagram id="j8p6b92bLePDRZEin-ZR" name="ログイン画面">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -335,7 +335,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="問題チャレンジ検索結果画面" id="AQHP7Jriqm2xoRD8__JV">
+  <diagram name="問題検索結果画面" id="AQHP7Jriqm2xoRD8__JV">
     <mxGraphModel dx="1447" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="ODYSWXq2OxuNT4syHDTo-0" />
@@ -371,8 +371,8 @@
         <mxCell id="ODYSWXq2OxuNT4syHDTo-6" value="トップページへ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#0085FC;fontStyle=4" vertex="1" parent="ODYSWXq2OxuNT4syHDTo-1">
           <mxGeometry x="620" y="698.8383233532934" width="297.3469387755102" height="19.16167664670659" as="geometry" />
         </mxCell>
-        <mxCell id="ODYSWXq2OxuNT4syHDTo-7" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 45px&quot;&gt;■ 問題チャレンジ画面&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#666666;" vertex="1" parent="ODYSWXq2OxuNT4syHDTo-1">
-          <mxGeometry x="80" y="50" width="470" height="30" as="geometry" />
+        <mxCell id="ODYSWXq2OxuNT4syHDTo-7" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 45px&quot;&gt;■ 問題検索結果画面&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#666666;" vertex="1" parent="ODYSWXq2OxuNT4syHDTo-1">
+          <mxGeometry x="80" y="50" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ODYSWXq2OxuNT4syHDTo-8" value="検索フォームを設置" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#36393D;" vertex="1" parent="ODYSWXq2OxuNT4syHDTo-1">
           <mxGeometry x="121" y="121" width="310" height="20" as="geometry" />
@@ -462,9 +462,9 @@
           <mxGeometry x="119" y="304" width="361" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ODYSWXq2OxuNT4syHDTo-34" value="" style="endArrow=classic;html=1;fontSize=50;fontColor=#36393D;" edge="1" parent="ODYSWXq2OxuNT4syHDTo-1">
-          <mxGeometry x="450" y="245" width="50" height="50" as="geometry">
-            <mxPoint x="490" y="315" as="sourcePoint" />
-            <mxPoint x="628" y="315" as="targetPoint" />
+          <mxGeometry x="450" y="230" width="50" height="50" as="geometry">
+            <mxPoint x="490" y="300" as="sourcePoint" />
+            <mxPoint x="628" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-BfJa5Z7IQutFGp7omei-10" value="Brother name..." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=bottom;align=left;spacing=20;fontSize=14;labelBackgroundColor=#EEEEEE;" vertex="1" parent="ODYSWXq2OxuNT4syHDTo-1">
@@ -508,6 +508,9 @@
               <mxPoint x="621.1538461538458" y="623" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9cVIOBImpMNx8_OwsmTr-0" value="&lt;font style=&quot;font-size: 25px&quot;&gt;＆検索で絞り込みを行っていく&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#F4C5CB;strokeWidth=1;fontColor=#711623;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;labelBackgroundColor=#F8D6DA;fillColor=#F8D6DA;fontStyle=1" vertex="1" parent="ODYSWXq2OxuNT4syHDTo-1">
+          <mxGeometry x="120" y="510" width="400" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
