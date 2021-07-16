@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-16T04:13:51.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="RNi2RixcEZ3n-zYrgEbi" version="14.8.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-07-16T04:41:21.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="gZwAdh-egdwk_2NW3XA9" version="14.8.6" type="github" pages="8">
   <diagram id="j8p6b92bLePDRZEin-ZR" name="ログイン画面">
     <mxGraphModel dx="1240" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -72,26 +72,23 @@
           <mxGeometry x="578" y="96" width="504" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rurxjLBn33EbLdDiC4FH-1" value="検索" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fillColor=none;strokeColor=#0085FC;fontColor=#0085FC;" vertex="1" parent="rurxjLBn33EbLdDiC4FH-0">
-          <mxGeometry x="1" width="70" height="35" relative="1" as="geometry">
-            <mxPoint x="-80" y="10" as="offset" />
+          <mxGeometry x="1" width="52" height="35" relative="1" as="geometry">
+            <mxPoint x="-62" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rurxjLBn33EbLdDiC4FH-2" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#6C767D;strokeColor=#CED4DA;fillColor=#ffffff;align=left;spacing=10;" vertex="1" parent="rurxjLBn33EbLdDiC4FH-0">
-          <mxGeometry x="1" width="180" height="35" relative="1" as="geometry">
-            <mxPoint x="-270" y="10" as="offset" />
+          <mxGeometry x="1" width="132" height="35" relative="1" as="geometry">
+            <mxPoint x="-202" y="10" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="rurxjLBn33EbLdDiC4FH-3" value="問題チャレンジ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#0085FC;fontStyle=1" vertex="1" parent="LzhJ9Gyvr20koei1Hah8-1">
-          <mxGeometry x="602" y="111.42" width="190" height="19.16" as="geometry" />
         </mxCell>
         <mxCell id="wFB6lsDcp62l5bIBL-6_-10" value="" style="group" parent="LzhJ9Gyvr20koei1Hah8-1" vertex="1" connectable="0">
           <mxGeometry x="592" y="110" width="470" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="W1W8LFqIjR1VN4nGsVP--0" value="新しい問題&lt;br&gt;登録" style="shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=26;spacing=0;whiteSpace=wrap;html=1;" vertex="1" parent="wFB6lsDcp62l5bIBL-6_-10">
-          <mxGeometry y="517" width="230" height="70" as="geometry" />
+        <mxCell id="W1W8LFqIjR1VN4nGsVP--0" value="目標・テスト&lt;br&gt;登録" style="shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fontColor=#FFFFFF;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=26;spacing=0;whiteSpace=wrap;html=1;fillColor=#F2CC00;" vertex="1" parent="wFB6lsDcp62l5bIBL-6_-10">
+          <mxGeometry y="510" width="230" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="W1W8LFqIjR1VN4nGsVP--1" value="目標設定&lt;br&gt;登録" style="shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=26;spacing=0;whiteSpace=wrap;html=1;" vertex="1" parent="wFB6lsDcp62l5bIBL-6_-10">
-          <mxGeometry x="240" y="517" width="230" height="70" as="geometry" />
+        <mxCell id="W1W8LFqIjR1VN4nGsVP--1" value="新しい問題&lt;br&gt;登録" style="shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=26;spacing=0;whiteSpace=wrap;html=1;" vertex="1" parent="wFB6lsDcp62l5bIBL-6_-10">
+          <mxGeometry x="240" y="510" width="230" height="75" as="geometry" />
         </mxCell>
         <mxCell id="DAOYBA_M9g7fLnit4X4x-3" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6c8ebf;html=1;whiteSpace=wrap;fillColor=#dae8fc;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" parent="wFB6lsDcp62l5bIBL-6_-10" vertex="1">
           <mxGeometry y="43.7" width="470" height="286.3" as="geometry" />
@@ -114,8 +111,11 @@
         <mxCell id="DAOYBA_M9g7fLnit4X4x-7" value="239" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;fontColor=#36393D;" parent="wFB6lsDcp62l5bIBL-6_-10" vertex="1">
           <mxGeometry x="312" y="160" width="36.75" height="12.04" as="geometry" />
         </mxCell>
-        <mxCell id="cY3Arj9dCt5yfn9ztf0A-0" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse ; border: 1px solid rgb(0 , 133 , 252)&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;background-color: rgb(167 , 201 , 66) ; color: rgb(255 , 255 , 255)&quot;&gt;&lt;th style=&quot;text-align: center ; background-color: rgb(126 , 166 , 224)&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;今日&lt;/span&gt;&lt;/th&gt;&lt;th style=&quot;text-align: center ; background-color: rgb(126 , 166 , 224) ; font-size: 18px&quot;&gt;今週&lt;/th&gt;&lt;th style=&quot;text-align: center ; background-color: rgb(126 , 166 , 224) ; border-collapse: collapse ; font-size: 18px&quot;&gt;今月&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&amp;nbsp;15分&amp;nbsp;&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;text-align: center ; font-size: 18px&quot;&gt;10時間&lt;/td&gt;&lt;td style=&quot;text-align: center ; font-size: 18px&quot;&gt;30時間&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 18px&quot;&gt;&lt;td style=&quot;text-align: center&quot;&gt;&amp;nbsp; &amp;nbsp;2問&amp;nbsp;&amp;nbsp;&lt;/td&gt;&lt;td style=&quot;text-align: center&quot;&gt;80問&lt;/td&gt;&lt;td style=&quot;text-align: center&quot;&gt;200問&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;overflow=fill;rounded=0;sketch=0;" vertex="1" parent="wFB6lsDcp62l5bIBL-6_-10">
-          <mxGeometry y="339" width="470" height="91" as="geometry" />
+        <mxCell id="cY3Arj9dCt5yfn9ztf0A-0" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse ; border: 1px solid rgb(0 , 133 , 252)&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;background-color: rgb(167 , 201 , 66) ; color: rgb(255 , 255 , 255)&quot;&gt;&lt;th style=&quot;text-align: center ; background-color: rgb(126 , 166 , 224)&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;今日&lt;/span&gt;&lt;/th&gt;&lt;th style=&quot;text-align: center ; background-color: rgb(126 , 166 , 224) ; font-size: 18px&quot;&gt;今週&lt;/th&gt;&lt;th style=&quot;text-align: center ; background-color: rgb(126 , 166 , 224) ; border-collapse: collapse ; font-size: 18px&quot;&gt;今月&lt;/th&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 18px&quot;&gt;&lt;td style=&quot;text-align: center&quot;&gt;&amp;nbsp; &amp;nbsp;2問&amp;nbsp;&amp;nbsp;&lt;/td&gt;&lt;td style=&quot;text-align: center&quot;&gt;80問&lt;/td&gt;&lt;td style=&quot;text-align: center&quot;&gt;200問&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;overflow=fill;rounded=0;sketch=0;" vertex="1" parent="wFB6lsDcp62l5bIBL-6_-10">
+          <mxGeometry y="342" width="470" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="rurxjLBn33EbLdDiC4FH-3" value="期末テスト（～7/1）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontColor=#0085FC;fontStyle=1" vertex="1" parent="wFB6lsDcp62l5bIBL-6_-10">
+          <mxGeometry x="9.669999999999959" y="6" width="278" height="19.16" as="geometry" />
         </mxCell>
         <mxCell id="DAOYBA_M9g7fLnit4X4x-21" value="試験日までの期間を具体的に" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#36393D;" parent="LzhJ9Gyvr20koei1Hah8-1" vertex="1">
           <mxGeometry x="92" y="274" width="360" height="20" as="geometry" />
@@ -171,17 +171,17 @@
         <mxCell id="wFB6lsDcp62l5bIBL-6_-22" value="〇〇問題チャレンジへ移動&lt;br&gt;〇〇苦手問題チャレンジへ移動" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#36393D;" parent="LzhJ9Gyvr20koei1Hah8-1" vertex="1">
           <mxGeometry x="94" y="556" width="360" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wFB6lsDcp62l5bIBL-6_-23" value="〇〇問題登録画面へ移動&lt;br&gt;〇〇目標登録画面へ移動" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#36393D;" parent="LzhJ9Gyvr20koei1Hah8-1" vertex="1">
+        <mxCell id="wFB6lsDcp62l5bIBL-6_-23" value="〇〇目標・テスト画面へ移動&lt;br&gt;〇〇問題登録画面へ移動" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#36393D;" parent="LzhJ9Gyvr20koei1Hah8-1" vertex="1">
           <mxGeometry x="94" y="630" width="360" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wFB6lsDcp62l5bIBL-6_-25" value="〇〇ユーザー情報画面へ移動&lt;br&gt;ログアウト画面へ移動（固定）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#36393D;" parent="LzhJ9Gyvr20koei1Hah8-1" vertex="1">
           <mxGeometry x="94" y="713" width="360" height="20" as="geometry" />
         </mxCell>
         <mxCell id="W1W8LFqIjR1VN4nGsVP--2" value="早速問題に&lt;br&gt;チャレンジ！" style="shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=26;spacing=0;whiteSpace=wrap;html=1;" vertex="1" parent="LzhJ9Gyvr20koei1Hah8-1">
-          <mxGeometry x="592" y="547" width="230" height="70" as="geometry" />
+          <mxGeometry x="592" y="533" width="230" height="75" as="geometry" />
         </mxCell>
         <mxCell id="W1W8LFqIjR1VN4nGsVP--3" value="苦手問題&lt;br&gt;チャレンジ！&lt;br&gt;" style="shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fontColor=#FFFFFF;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=26;spacing=0;fillColor=#FF6666;whiteSpace=wrap;html=1;" vertex="1" parent="LzhJ9Gyvr20koei1Hah8-1">
-          <mxGeometry x="832" y="547" width="230" height="70" as="geometry" />
+          <mxGeometry x="832" y="533" width="230" height="75" as="geometry" />
         </mxCell>
         <mxCell id="wFB6lsDcp62l5bIBL-6_-17" value="" style="endArrow=classic;html=1;fontSize=50;fontColor=#36393D;" parent="LzhJ9Gyvr20koei1Hah8-1" edge="1">
           <mxGeometry x="422" y="323.67" width="50" height="50" as="geometry">
@@ -192,8 +192,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2ZQH0igB9zpUu74pPUJn-0" value="検索フォームを設置（固定）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#36393D;" vertex="1" parent="LzhJ9Gyvr20koei1Hah8-1">
-          <mxGeometry x="93" y="121" width="337" height="20" as="geometry" />
+        <mxCell id="2ZQH0igB9zpUu74pPUJn-0" value="検索フォームを設置（固定）&lt;br&gt;ウエルカムメッセージを表示" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#36393D;" vertex="1" parent="LzhJ9Gyvr20koei1Hah8-1">
+          <mxGeometry x="93" y="122" width="337" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2ZQH0igB9zpUu74pPUJn-1" value="" style="endArrow=classic;html=1;fontSize=50;fontColor=#36393D;" edge="1" parent="LzhJ9Gyvr20koei1Hah8-1">
           <mxGeometry x="422" y="132" width="50" height="50" as="geometry">
@@ -358,7 +358,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="問題チャレンジ画面のコピー" id="48hc_3SWy1SWJ7SaD0in">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="snyw5G4jr72KfwAqMp6H-0" />
         <mxCell id="snyw5G4jr72KfwAqMp6H-1" parent="snyw5G4jr72KfwAqMp6H-0" />
