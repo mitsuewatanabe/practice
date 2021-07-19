@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T03:56:28.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="UqZShw5WJxjCIoXmt70m" version="14.8.6" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2021-07-19T04:06:57.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="nnb8SKQs0IDgJn3m-58_" version="14.8.6" type="github" pages="15">
   <diagram id="j8p6b92bLePDRZEin-ZR" name="ログイン画面">
     <mxGraphModel dx="1240" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -493,6 +493,27 @@
         <mxCell id="QtIgiCUrlPNazptFM2gm-2" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.ipad10inch;fontSize=30;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-1">
           <mxGeometry x="550" y="37" width="560" height="760" as="geometry" />
         </mxCell>
+        <mxCell id="QtIgiCUrlPNazptFM2gm-36" value="&lt;font style=&quot;font-size: 26px&quot;&gt;■最大9コまでボタン設定が可能です。&lt;br style=&quot;font-size: 26px&quot;&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 26px&quot;&gt;（表示入れ替え可・5文字まで）&lt;/font&gt;&lt;br style=&quot;font-size: 26px&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=26;fontColor=#4D4D4D;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-1">
+          <mxGeometry x="592" y="220" width="458.33" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YWg5Nlbm5Vwk5Ywsim3X-0" value="&lt;span style=&quot;&quot;&gt;国語&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#36393d;strokeWidth=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=19;spacing=5;labelBackgroundColor=#B0E3E6;fillColor=#B0E3E6;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-1">
+          <mxGeometry x="600" y="300" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YWg5Nlbm5Vwk5Ywsim3X-1" value="&lt;span style=&quot;&quot;&gt;数学&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#36393d;strokeWidth=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=19;spacing=5;labelBackgroundColor=#B0E3E6;fillColor=#B0E3E6;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-1">
+          <mxGeometry x="760" y="300" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YWg5Nlbm5Vwk5Ywsim3X-2" value="英語" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0e8088;strokeWidth=1;fillColor=#b0e3e6;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=19;spacing=5;labelBackgroundColor=#B0E3E6;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-1">
+          <mxGeometry x="920" y="300" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YWg5Nlbm5Vwk5Ywsim3X-3" value="&lt;span style=&quot;&quot;&gt;社会&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#36393d;strokeWidth=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=19;spacing=5;labelBackgroundColor=#B0E3E6;fillColor=#B0E3E6;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-1">
+          <mxGeometry x="600" y="358" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YWg5Nlbm5Vwk5Ywsim3X-4" value="&lt;span style=&quot;&quot;&gt;理科&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#36393d;strokeWidth=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=19;spacing=5;labelBackgroundColor=#B0E3E6;fillColor=#B0E3E6;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-1">
+          <mxGeometry x="760" y="358" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YWg5Nlbm5Vwk5Ywsim3X-5" value="&lt;span&gt;英検3級&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#36393d;strokeWidth=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=19;spacing=5;labelBackgroundColor=#B0E3E6;fillColor=#B0E3E6;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-1">
+          <mxGeometry x="920" y="358" width="140" height="48" as="geometry" />
+        </mxCell>
         <mxCell id="QtIgiCUrlPNazptFM2gm-3" value="トップページへ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#0085FC;fontStyle=4" vertex="1" parent="QtIgiCUrlPNazptFM2gm-1">
           <mxGeometry x="592" y="698.8383233532934" width="297.3469387755102" height="19.16167664670659" as="geometry" />
         </mxCell>
@@ -508,7 +529,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-6" value="ボタンに設定したい表示を登録&lt;br&gt;最大9コまで登録可能" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#36393D;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-1">
+        <mxCell id="QtIgiCUrlPNazptFM2gm-6" value="ボタンイメージを表示" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#36393D;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-1">
           <mxGeometry x="94" y="282" width="388" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QtIgiCUrlPNazptFM2gm-7" value="〇〇ユーザー情報画面へ移動&lt;br&gt;ログアウト画面へ移動&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#36393D;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-1">
@@ -517,89 +538,11 @@
         <mxCell id="QtIgiCUrlPNazptFM2gm-8" value="ログアウト" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#0085FC;fontStyle=4" vertex="1" parent="QtIgiCUrlPNazptFM2gm-1">
           <mxGeometry x="832" y="698.84" width="230" height="19.16" as="geometry" />
         </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-9" value="&lt;span style=&quot;font-size: 27px&quot;&gt;確認&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=30;spacing=5;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-1">
-          <mxGeometry x="595" y="627" width="470" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="QtIgiCUrlPNazptFM2gm-10" value="" style="html=1;shadow=0;dashed=0;fillColor=#F8F9FA;strokeColor=none;fontSize=16;fontColor=#181819;align=left;spacing=15;labelBackgroundColor=#ffffff;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-1">
           <mxGeometry x="578" y="96" width="504" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-11" value="教科ボタン設定" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#0085FC;fontStyle=1" vertex="1" parent="QtIgiCUrlPNazptFM2gm-1">
-          <mxGeometry x="602" y="111.42" width="258" height="19.16" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-12" value="" style="group" vertex="1" connectable="0" parent="QtIgiCUrlPNazptFM2gm-1">
-          <mxGeometry x="598" y="259" width="460" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-13" value="" style="group" vertex="1" connectable="0" parent="QtIgiCUrlPNazptFM2gm-12">
-          <mxGeometry width="460" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-14" value="" style="group" vertex="1" connectable="0" parent="QtIgiCUrlPNazptFM2gm-13">
-          <mxGeometry y="3" width="400" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-15" value="" style="group" vertex="1" connectable="0" parent="QtIgiCUrlPNazptFM2gm-14">
-          <mxGeometry width="400" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-16" value="国語" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=20;spacing=10;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-15">
-          <mxGeometry y="29" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-17" value="■教科ボタン1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#0085FC;fontStyle=1" vertex="1" parent="QtIgiCUrlPNazptFM2gm-15">
-          <mxGeometry width="400" height="19.16" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-18" value="数学" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=20;spacing=10;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-12">
-          <mxGeometry x="162" y="32" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-19" value="英語" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=20;spacing=10;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-12">
-          <mxGeometry x="319" y="32" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-20" value="" style="group" vertex="1" connectable="0" parent="QtIgiCUrlPNazptFM2gm-1">
-          <mxGeometry x="598" y="390" width="460" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-21" value="" style="group" vertex="1" connectable="0" parent="QtIgiCUrlPNazptFM2gm-20">
-          <mxGeometry width="460" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-22" value="" style="group" vertex="1" connectable="0" parent="QtIgiCUrlPNazptFM2gm-21">
-          <mxGeometry y="3" width="400" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-23" value="" style="group" vertex="1" connectable="0" parent="QtIgiCUrlPNazptFM2gm-22">
-          <mxGeometry width="400" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-24" value="社会" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=20;spacing=10;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-23">
-          <mxGeometry y="29" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-25" value="■教科ボタン2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#0085FC;fontStyle=1" vertex="1" parent="QtIgiCUrlPNazptFM2gm-23">
-          <mxGeometry width="400" height="19.16" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-26" value="理科" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=20;spacing=10;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-20">
-          <mxGeometry x="162" y="32" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-27" value="英検3級" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=20;spacing=10;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-20">
-          <mxGeometry x="319" y="32" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-28" value="" style="group" vertex="1" connectable="0" parent="QtIgiCUrlPNazptFM2gm-1">
-          <mxGeometry x="598" y="521" width="460" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-29" value="" style="group" vertex="1" connectable="0" parent="QtIgiCUrlPNazptFM2gm-28">
-          <mxGeometry width="460" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-30" value="" style="group" vertex="1" connectable="0" parent="QtIgiCUrlPNazptFM2gm-29">
-          <mxGeometry y="3" width="400" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-31" value="" style="group" vertex="1" connectable="0" parent="QtIgiCUrlPNazptFM2gm-30">
-          <mxGeometry width="400" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-32" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=20;spacing=10;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-31">
-          <mxGeometry y="29" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-33" value="■教科ボタン3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#0085FC;fontStyle=1" vertex="1" parent="QtIgiCUrlPNazptFM2gm-31">
-          <mxGeometry width="400" height="19.16" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-34" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=20;spacing=10;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-28">
-          <mxGeometry x="162" y="32" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-35" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=20;spacing=10;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-28">
-          <mxGeometry x="319" y="32" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QtIgiCUrlPNazptFM2gm-36" value="&lt;font style=&quot;font-size: 26px&quot;&gt;■最大9コまでボタン設定が可能です。&lt;br style=&quot;font-size: 26px&quot;&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 26px&quot;&gt;（表示入れ替え可・5文字まで）&lt;/font&gt;&lt;br style=&quot;font-size: 26px&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=26;fontColor=#4D4D4D;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-1">
-          <mxGeometry x="595" y="170" width="458.33" height="50" as="geometry" />
+        <mxCell id="QtIgiCUrlPNazptFM2gm-11" value="教科ボタン設定（表示確認）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#0085FC;fontStyle=1" vertex="1" parent="QtIgiCUrlPNazptFM2gm-1">
+          <mxGeometry x="602" y="111.42" width="328" height="19.16" as="geometry" />
         </mxCell>
         <mxCell id="QtIgiCUrlPNazptFM2gm-37" value="" style="endArrow=classic;html=1;fontSize=50;fontColor=#36393D;" edge="1" parent="QtIgiCUrlPNazptFM2gm-1">
           <mxGeometry x="424" y="75" width="50" height="50" as="geometry">
@@ -609,6 +552,18 @@
               <mxPoint x="595.1538461538458" y="318.99999999999994" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YWg5Nlbm5Vwk5Ywsim3X-6" value="&lt;font style=&quot;font-size: 24px&quot;&gt;※教科名でタグが作成されます。&lt;br style=&quot;font-size: 24px&quot;&gt;&amp;nbsp;　タグの作成は不要です。&lt;br style=&quot;font-size: 24px&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=24;fontColor=#4D4D4D;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="QtIgiCUrlPNazptFM2gm-1">
+          <mxGeometry x="592" y="440" width="458.33" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7RqyTQdXL0ruX9nSs-X1-2" value="" style="group" vertex="1" connectable="0" parent="QtIgiCUrlPNazptFM2gm-1">
+          <mxGeometry x="595.5" y="537" width="469" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="7RqyTQdXL0ruX9nSs-X1-0" value="&lt;font style=&quot;font-size: 27px&quot;&gt;やり直し&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=30;spacing=5;fillColor=#FF6666;" vertex="1" parent="7RqyTQdXL0ruX9nSs-X1-2">
+          <mxGeometry width="230" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="7RqyTQdXL0ruX9nSs-X1-1" value="&lt;font style=&quot;font-size: 27px&quot;&gt;目標OK！&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=30;spacing=5;" vertex="1" parent="7RqyTQdXL0ruX9nSs-X1-2">
+          <mxGeometry x="239" width="230" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
